@@ -4,6 +4,86 @@ rheed\_learn package
 Submodules
 ----------
 
+rheed\_learn.AFM module
+-----------------------
+
+.. automodule:: rheed_learn.AFM
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+rheed\_learn.Analysis module
+----------------------------
+
+.. automodule:: rheed_learn.Analysis
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+rheed\_learn.Analysis\_umich module
+-----------------------------------
+
+.. automodule:: rheed_learn.Analysis_umich
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+rheed\_learn.Dataset module
+---------------------------
+
+.. automodule:: rheed_learn.Dataset
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+rheed\_learn.Fit module
+-----------------------
+
+.. automodule:: rheed_learn.Fit
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+rheed\_learn.Fitter1D module
+----------------------------
+
+.. automodule:: rheed_learn.Fitter1D
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+rheed\_learn.Fitting module
+---------------------------
+
+.. automodule:: rheed_learn.Fitting
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+rheed\_learn.Packed\_functions module
+-------------------------------------
+
+.. automodule:: rheed_learn.Packed_functions
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+rheed\_learn.Viz module
+-----------------------
+
+.. automodule:: rheed_learn.Viz
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+rheed\_learn.XRD module
+-----------------------
+
+.. automodule:: rheed_learn.XRD
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 rheed\_learn.skeleton module
 ----------------------------
 
