@@ -34,10 +34,10 @@ RHEED-Learn
 ===========
 
 
-    Add a short description here!
+    RHEED-Learn is a Python package for analyzing and visualizing Reflection High-Energy Electron Diffraction (RHEED) data, designed to streamline the processing of thin-film growth data and assist with materials characterization.
 
 
-A longer description of your project goes here...
+RHEED-Learn is a dedicated Python package for researchers and scientists working with Reflection High-Energy Electron Diffraction (RHEED) data, commonly used in thin-film growth analysis and materials science. The package provides an array of tools to process, visualize, and analyze RHEED data, making it easier to track film growth dynamics and extract meaningful insights from complex diffraction patterns. With capabilities to handle raw RHEED intensity oscillation data, kinematic analysis, and more, RHEED-Learn allows users to better understand growth modes, surface roughness, and lattice structures in various material systems. This package aims to facilitate reproducible research by offering modular functions, supporting customized analyses, and providing integration with other Python data analysis workflows. Ideal for both routine RHEED characterization and advanced studies, RHEED-Learn empowers researchers to push forward in the field of materials synthesis and thin-film research.
 
 
 .. _pyscaffold-notes:
