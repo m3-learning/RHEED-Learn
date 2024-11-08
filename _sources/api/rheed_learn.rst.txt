@@ -1,0 +1,21 @@
+rheed\_learn package
+====================
+
+Submodules
+----------
+
+rheed\_learn.skeleton module
+----------------------------
+
+.. automodule:: rheed_learn.skeleton
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: rheed_learn
+   :members:
+   :undoc-members:
+   :show-inheritance:

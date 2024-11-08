@@ -1,0 +1,7 @@
+rheed_learn
+===========
+
+.. toctree::
+   :maxdepth: 4
+
+   rheed_learn
